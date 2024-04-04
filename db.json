@@ -1,0 +1,40 @@
+{
+  "utilisateurs": [
+    {
+      "id": "c7b7",
+      "nomUtilisateur": "Minsinga",
+      "email": "test@gmail.com",
+      "motDePasse": "qwerty",
+      "motDePasseConfirmation": "qwerty"
+    }
+  ],
+  "publications": [
+    {
+      "id": "b2d5",
+      "textePublication": "Bonjour le monde !",
+      "imagePublication": "Pas encore d'images uploader",
+      "idUtilisateur": "c7b7",
+      "dataPublication": "2024-04-04T08:23:55.067Z",
+      "likePublication": 0,
+      "auteur": "Minsinga"
+    },
+    {
+      "id": "dab6",
+      "textePublication": "Salut les amis",
+      "imagePublication": "no images for the moment",
+      "idUtilisateur": "c7b7",
+      "dataPublication": "2024-04-04T08:25:09.941Z",
+      "likePublication": 0,
+      "auteur": "Minsinga"
+    },
+    {
+      "id": "1fa6",
+      "textePublication": "Ma vraie image",
+      "imagePublication": "Nothing to say",
+      "idUtilisateur": "c7b7",
+      "dataPublication": "2024-04-04T08:40:30.160Z",
+      "likePublication": 0,
+      "auteur": "Minsinga"
+    }
+  ]
+}
